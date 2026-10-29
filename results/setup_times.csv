@@ -1,0 +1,7 @@
+Operation,Seconds
+Excel loading,54.6271045000758
+Record conversion,2.9366045999340713
+Hash construction,0.13440550002269447
+SQLite loading,1.712858400074765
+Exact-ID index creation,0.20717209996655583
+Composite index creation,0.7029917000327259
